@@ -21,7 +21,6 @@ Return only the body of `sol()`. Solve it with the general quadratic formula (do
 ## Initial AI-generated solution
 
 ```python
-# AI-generated solution here
 def sol(coeffs=[2.5, 1.3, -0.5]):
     a, b, c = coeffs
     discriminant = (b ** 2 - 4 * a * c) ** 0.5
@@ -32,18 +31,8 @@ def sol(coeffs=[2.5, 1.3, -0.5]):
 
 Note: you may skip this section if AI-generated solution is correct.
 
-The errors found in the AI-generated solution:
-1. to be filled here
-2. 
-3.
-
-Your edited solution:
-
-```python
-# your solution after debugging here
-```
+No errors found — Gemini's solution was correct (ran and returned `True`), so this section is skipped.
 
 ## Screenshots of interaction with AI
 
-Please capture the screenshot and paste it here.
-![alt text](image-4.png)
+![Gemini interaction for Problem 5](image-4.png)

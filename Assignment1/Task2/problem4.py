@@ -12,7 +12,6 @@ def sol(n=14235764939971075543215213):
 
     12345 => 15
     """
-    # TODO: your implementation here
     prod = 1
     has_odd = False
     for char in str(n):

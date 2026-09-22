@@ -25,7 +25,6 @@ Return only the body of `sol()`. It must compute the product of all odd digits o
 ## Initial AI-generated solution
 
 ```python
-# AI-generated solution here
 def sol(n=14235764939971075543215213):
     prod = 1
     has_odd = False
@@ -41,18 +40,8 @@ def sol(n=14235764939971075543215213):
 
 Note: you may skip this section if AI-generated solution is correct.
 
-The errors found in the AI-generated solution:
-1. to be filled here
-2. 
-3.
-
-Your edited solution:
-
-```python
-# your solution after debugging here
-```
+No errors found — Gemini's solution was correct (ran and returned `True`), so this section is skipped.
 
 ## Screenshots of interaction with AI
 
-Please capture the screenshot and paste it here.
-![alt text](image-3.png)
+![Gemini interaction for Problem 4](image-3.png)

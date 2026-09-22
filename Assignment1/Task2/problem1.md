@@ -28,8 +28,8 @@ def sol():
 
 Note: you may skip this section if AI-generated solution is correct.
 
-No errors found — Gemini's solution is correct (ran and returned `True`), so this section is skipped.
+No errors found — Gemini's solution was correct (ran and returned `True`), so this section is skipped.
 
 ## Screenshots of interaction with AI
 
-Please capture the screenshot and paste it here.
+![Gemini interaction for Problem 1](image.png)

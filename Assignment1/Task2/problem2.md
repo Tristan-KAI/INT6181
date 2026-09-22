@@ -20,7 +20,6 @@ Return only the body of `sol()`, i.e. a list where the number 0 appears 0 times,
 ## Initial AI-generated solution
 
 ```python
-# AI-generated solution here
 def sol():
     return [i for i in range(10) for _ in range(i)]
 ```
@@ -29,18 +28,8 @@ def sol():
 
 Note: you may skip this section if AI-generated solution is correct.
 
-The errors found in the AI-generated solution:
-1. to be filled here
-2. 
-3.
-
-Your edited solution:
-
-```python
-# your solution after debugging here
-```
+No errors found — Gemini's solution was correct (ran and returned `True`), so this section is skipped.
 
 ## Screenshots of interaction with AI
 
-Please capture the screenshot and paste it here.
-![alt text](image-1.png)
+![Gemini interaction for Problem 2](image-1.png)
